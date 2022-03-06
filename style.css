@@ -225,6 +225,7 @@ form input, textarea{
 }
 
 form input[type="text"], form input[type="email"], form input[type="tel"], textarea{
+    color: var(--cor-texto);
     width: calc(30% - 20px);
     border-radius: 5px 10px 10px;
     padding-left: 20px;
